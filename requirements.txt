@@ -4,4 +4,4 @@ pandas==2.0.2
 reportlab==4.2.0
 streamlit-pdf-viewer==0.0.14
 streamlit-option-menu==0.3.6
-numpy==1.24.3
+numpy==1.26.4
